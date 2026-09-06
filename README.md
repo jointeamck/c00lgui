@@ -7,7 +7,7 @@ an admin gui with clean ui, fe scripts, and features undetected to the client
 # Script 
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperionhax/c00lgui/main/SpecialEdition"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperionhax/c00lgui/main/c00lgui"))()
 ```
 
 # Credits
